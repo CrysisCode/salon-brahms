@@ -1,0 +1,14 @@
+.about__A {
+    & .container {
+        background-color: var(--color-primary);
+        color: #fff;
+        margin-top: -22vh;   
+    }
+
+    & .dot-icon {
+        width: 8px;
+        height: 16px;
+        background-color: #f2c94c;
+        border-radius: 0px 10px 10px 0px;
+    }
+}
